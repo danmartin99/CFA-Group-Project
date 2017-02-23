@@ -1,7 +1,7 @@
 ![Imgur](http://i.imgur.com/SDXwocY.jpg)
 
 ## About
-Designed and built by Patrick [(_abazilla_)](https://github.com/abazilla), Alex [(_arapl3y_)](https://github.com/arapl3y), Lee [(_shadolee_)](https://github.com/shadolee) and Dan [(_danmartin99_)](https://github.com/danmartin99)
+Designed and built by Patrick ([_abazilla_](https://github.com/abazilla)), Alex ([_arapl3y_](https://github.com/arapl3y)), Lee ([_shadolee_](https://github.com/shadolee)) and Dan ([_danmartin99_](https://github.com/danmartin99))
 
 The purpose of the project is to create a ruby terminal app that will blow Trent’s (our teacher) socks off when he comes back on Friday. We have done this by designing an application using Trello and selecting the most relevant user stories and using it for our minimum viable product (MVP). The storyboard can be found at https://trello.com/b/VTKVgeun/team-app.
 
