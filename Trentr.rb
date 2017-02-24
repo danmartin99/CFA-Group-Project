@@ -1,8 +1,8 @@
 # Trentr - #1 Trenting App in the App store
 
-require_relative 'Trentr-people'
-require_relative 'Trentr-destination'
-require_relative 'Trentr-agency'
+require './Trentr-people'
+require './Trentr-destination'
+require './Trentr-agency'
 require 'catpix'
 require 'tzinfo'
 require 'open_weather'
